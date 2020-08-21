@@ -1,0 +1,40 @@
+.footer {
+    padding: 1.5rem 1.5rem;
+    background: gray(25%);
+    color: gray(60%);
+    font-size: 0.85em;
+    overflow-x: hidden;
+    text-align: center;
+  }
+  
+  .footer a {
+    padding-bottom: 1px;
+    border: 0;
+    color: gray(90%);
+  }
+  .footer a:focus,
+  .footer a:active,
+  .footer a:hover {
+    color: #fff;
+    text-decoration: underline;
+  }
+  
+  .footer-credits {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .footer-credit {
+    display: block;
+    margin: 0;
+  }
+.footer {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    box-sizing: border-box;
+    margin-inline-end: 0px;
+}

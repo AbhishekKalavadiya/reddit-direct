@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-twitter-embed": "^3.0.3",
+    "remarkable": "^2.0.1",
+    "semantic-ui-css": "^2.4.1"
+  }
+}
